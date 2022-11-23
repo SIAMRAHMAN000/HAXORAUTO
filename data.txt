@@ -1,0 +1,6 @@
+pip install haxorsiambot
+
+git clone https://github.com/SIAMRAHMAN000/HAXORSIAMBOT
+cd HAXORSIAMBOT
+ls
+Python siam.py
